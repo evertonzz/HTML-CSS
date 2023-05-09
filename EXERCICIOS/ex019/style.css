@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/*
+
+em HTML é id = em CSS é #
+em HTML é class = em CSS é .
+
+*/
+
+body{
+
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1#principal{
+
+    color: beige;
+    text-align: center;
+}
+
+h1{
+
+    color: azure;
+}
+
+h2{
+
+    color: black;
+}
+
+p{
+
+    text-align: justify;
+    text-indent: 30px;
+}
